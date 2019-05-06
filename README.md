@@ -3,7 +3,7 @@ https://www.coursera.org/learn/machine-learning
 
 # Exercise 5: Regularized Linear Regression and Bias v.s. Variance
 In this exercise, you will implement regularized linear regression and use it to
-study models with dierent bias-variance properties. Before starting on the
+study models with different bias-variance properties. Before starting on the
 programming exercise, we strongly recommend watching the video lectures
 and completing the review questions for the associated topics.
 <br />
